@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm PRAJYOT HADKE </h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/Prajyot-108/Prajyot-108/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
