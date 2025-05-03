@@ -21,8 +21,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prajyot-108](https://github.com/Prajyot-108)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 💬 Ask me about **DevOps & Cloud DevOps** 
 
 ---
 
