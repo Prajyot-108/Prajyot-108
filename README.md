@@ -9,10 +9,7 @@
 <p align="center">
   <a href="https://github.com/Prajyot-108">
   
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+ 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
